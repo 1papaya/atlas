@@ -12,7 +12,7 @@ import "./index.scss";
 const Map = forwardRef((props, ref) => {
   let mapRef = ref || React.createRef();
 
-  //
+  //gl-pyrenees
   // Viewport
   //
 

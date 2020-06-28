@@ -16,10 +16,8 @@ const config = {
     compress: true,
   },
 
-  entry: {
-    app: resolve("./src/app.js"),
-  },
-
+  entry: "src/index.js",
+  
   output: {
     chunkFilename: "[name].bundle.js",
     path: resolve("public"),
