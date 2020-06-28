@@ -169,7 +169,7 @@ const Map = forwardRef((props, ref) => {
               ? props.dataBaseURL
               : `${loc.origin}${loc.pathname}`;
 
-            if (url.search("//localhost") != -1)
+            if (url.search("localhost") != -1 && props.dataBaseURL)
               return {
                 url: `${baseURL}${url_.pathname}`,
               };

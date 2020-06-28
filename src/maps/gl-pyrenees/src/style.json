@@ -9,8 +9,9 @@
     "openmaptiles": {
       "type": "vector",
       "tiles": [
-        "http://localhost:8080/data/osm/{z}/{x}/{y}.pbf"
+        "http://localhost:6001/data/gl-pyrenees-osm/{z}/{x}/{y}.pbf"
       ],
+      "minZoom": 1,
       "maxzoom": 14
     },
     "contours": {
@@ -28,7 +29,7 @@
     "pyr": {
       "type": "vector",
       "tiles": [
-        "http://localhost:8080/data/pyr/{z}/{x}/{y}.pbf"
+        "http://localhost:6002/data/gl-pyrenees-pyr/{z}/{x}/{y}.pbf"
       ],
       "minZoom": 0,
       "maxZoom": 14,
@@ -2928,15 +2929,6 @@
       "metadata": {},
       "source": "openmaptiles",
       "source-layer": "transportation",
-      "filter": [
-        "all",
-        [
-          "in",
-          "class",
-          "path",
-          "track"
-        ]
-      ],
       "layout": {
         "line-cap": "round",
         "line-join": "round",
@@ -2961,7 +2953,8 @@
             ]
           ]
         }
-      }
+      },
+      "minzoom": 10
     },
     {
       "id": "road_service",

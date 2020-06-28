@@ -9,14 +9,12 @@
   "scripts": {
     "dev:maputnik": "maputnik --watch -f src/style.json",
     "dev:app": "webpack-dev-server --config webpack.config.js --progress --hot",
-    "develop": "npm-run-all -p dev:app dev:maputnik",
+    "dev:vtile": "npm-run-all -p dev:vtile1 dev:vtile2",
+    "dev:vtile1": "tileserver-gl-light --silent -p 6001 --mbtiles static/data/gl-pyrenees-osm.mbtiles",
+    "dev:vtile2": "tileserver-gl-light --silent -p 6002 --mbtiles static/data/gl-pyrenees-pyr.mbtiles",
+    "develop": "npm-run-all -p dev:app dev:vtile dev:maputnik",
     "preprocess": "npm-run-all pre:osm pre:poi pre:vtile",
-    "pre:install": "conda env create -f conda-env.yml",
-    "pre:vtile": "conda run -v -n gl-pyrenees python3 src/scripts/generate_tiles.py",
-    "pre:osm": "conda run -v -n gl-pyrenees python3 src/scripts/get_osm_data.py",
-    "pre:poi": "conda run -v -n gl-pyrenees python3 src/scripts/import_poi_data.py",
     "serve:app": "webpack --config=webpack.config.js --mode=production",
-    "serve:vtile": "mbtiles2ungzpbf -f static/data/pyr.mbtiles -d public/data/pyr/",
     "serve": "npm-run-all serve:app serve:vtile",
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
