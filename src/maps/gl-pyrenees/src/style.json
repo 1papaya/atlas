@@ -1013,24 +1013,75 @@
       }
     },
     {
-      "id": "pyr_auto",
+      "id": "osm_trails-casing",
       "type": "line",
       "metadata": {},
-      "source": "pyr",
-      "source-layer": "highways",
-      "minzoom": 10,
-      "maxzoom": 24,
+      "source": "openmaptiles",
+      "source-layer": "transportation",
       "filter": [
-        "all",
+        "any",
         [
-          "!in",
-          "highway",
+          "in",
+          "class",
           "path",
           "track"
+        ],
+        [
+          "==",
+          "surface",
+          "unpaved"
         ]
       ],
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round",
+        "visibility": "visible"
+      },
       "paint": {
-        "line-color": "#000",
+        "line-color": "rgba(255,255,255,1)",
+        "line-blur": 0.5,
+        "line-width": {
+          "stops": [
+            [
+              10,
+              3
+            ],
+            [
+              15,
+              2.5
+            ]
+          ]
+        }
+      },
+      "minzoom": 10
+    },
+    {
+      "id": "osm_trails",
+      "type": "line",
+      "metadata": {},
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "any",
+        [
+          "in",
+          "class",
+          "path",
+          "track"
+        ],
+        [
+          "==",
+          "surface",
+          "unpaved"
+        ]
+      ],
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round",
+        "visibility": "visible"
+      },
+      "paint": {
+        "line-color": "rgba(149, 91, 5, 1)",
         "line-blur": 0,
         "line-width": {
           "stops": [
@@ -1045,118 +1096,7 @@
           ]
         }
       },
-      "layout": {
-        "visibility": "visible"
-      }
-    },
-    {
-      "id": "pyr_trails",
-      "type": "line",
-      "metadata": {},
-      "source": "pyr",
-      "source-layer": "highways",
-      "minzoom": 11,
-      "maxzoom": 24,
-      "filter": [
-        "all",
-        [
-          "in",
-          "highway",
-          "path",
-          "track"
-        ]
-      ],
-      "paint": {
-        "line-color": "rgba(149, 91, 5, 1)",
-        "line-blur": 0,
-        "line-width": {
-          "stops": [
-            [
-              10,
-              0.9
-            ],
-            [
-              15,
-              1.8
-            ]
-          ]
-        },
-        "line-dasharray": [
-          4,
-          1
-        ]
-      },
-      "layout": {
-        "visibility": "visible"
-      }
-    },
-    {
-      "id": "pyr_paths",
-      "type": "line",
-      "source": "pyr",
-      "source-layer": "paths",
-      "minzoom": 11,
-      "maxzoom": 24,
-      "filter": [
-        "all"
-      ],
-      "paint": {
-        "line-color": "rgba(149, 91, 5, 1)",
-        "line-blur": 0,
-        "line-width": {
-          "stops": [
-            [
-              10,
-              0.9
-            ],
-            [
-              15,
-              1.8
-            ]
-          ]
-        },
-        "line-dasharray": [
-          4,
-          1
-        ]
-      },
-      "layout": {
-        "visibility": "visible"
-      }
-    },
-    {
-      "id": "pyr_tracks",
-      "type": "line",
-      "source": "pyr",
-      "source-layer": "tracks",
-      "minzoom": 11,
-      "maxzoom": 24,
-      "filter": [
-        "all"
-      ],
-      "paint": {
-        "line-color": "rgba(149, 91, 5, 1)",
-        "line-blur": 0,
-        "line-width": {
-          "stops": [
-            [
-              10,
-              0.9
-            ],
-            [
-              15,
-              1.8
-            ]
-          ]
-        },
-        "line-dasharray": [
-          4,
-          1
-        ]
-      },
-      "layout": {
-        "visibility": "visible"
-      }
+      "minzoom": 10
     },
     {
       "id": "pyr_hiking",
@@ -1294,6 +1234,49 @@
         ]
       },
       "minzoom": 0
+    },
+    {
+      "id": "osm_roads",
+      "type": "line",
+      "metadata": {},
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "any",
+        [
+          "!in",
+          "class",
+          "path",
+          "track"
+        ],
+        [
+          "==",
+          "surface",
+          "paved"
+        ]
+      ],
+      "layout": {
+        "line-cap": "round",
+        "line-join": "round",
+        "visibility": "visible"
+      },
+      "paint": {
+        "line-color": "#000",
+        "line-blur": 0,
+        "line-width": {
+          "stops": [
+            [
+              10,
+              0.9
+            ],
+            [
+              15,
+              1.8
+            ]
+          ]
+        }
+      },
+      "minzoom": 1
     },
     {
       "id": "tunnel_motorway_link_casing",
@@ -2535,7 +2518,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "rgba(165, 165, 165, 1)",
@@ -2741,7 +2724,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#444",
@@ -2781,7 +2764,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -2840,7 +2823,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -2924,39 +2907,6 @@
       }
     },
     {
-      "id": "roads_all",
-      "type": "line",
-      "metadata": {},
-      "source": "openmaptiles",
-      "source-layer": "transportation",
-      "layout": {
-        "line-cap": "round",
-        "line-join": "round",
-        "visibility": "visible"
-      },
-      "paint": {
-        "line-color": "#000",
-        "line-width": {
-          "base": 1.2,
-          "stops": [
-            [
-              0,
-              1
-            ],
-            [
-              16,
-              2
-            ],
-            [
-              20,
-              7.5
-            ]
-          ]
-        }
-      },
-      "minzoom": 10
-    },
-    {
       "id": "road_service",
       "type": "line",
       "metadata": {},
@@ -2973,7 +2923,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -3022,7 +2972,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -3072,7 +3022,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -3117,7 +3067,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -3160,7 +3110,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": "#000",
@@ -3208,7 +3158,7 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "visible"
+        "visibility": "none"
       },
       "paint": {
         "line-color": {
