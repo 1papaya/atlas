@@ -1,0 +1,5 @@
+node_modules/
+*.osm*
+**/data/tmp/*
+**/data/output/*
+**/static/data/*
