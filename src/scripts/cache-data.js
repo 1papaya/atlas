@@ -63,6 +63,7 @@ glob(`${baseFolder}/src/maps/*/`, (err, mapPaths) => {
               unzipMbtiles(dataPath, destPath);
             });
           }
+        }
 
         // copy the rest
         if (dataExt != ".mbtiles") {
