@@ -1,0 +1,15 @@
+[build]
+  base = "/"
+  publish = "/public/"
+  command = "npm run build"
+
+[[redirects]]
+  from = "/.cache/data"
+  to = "/data"
+  status = 200
+  force = true
+  
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"

@@ -44,6 +44,7 @@ glob(`${baseFolder}/src/maps/*/`, (err, mapPaths) => {
         let relDataPath = dataPath.substr(mapDataPath.length);
         let dataExt = path.extname(relDataPath);
 
+        // unzip mbtiles
         if (dataExt == ".mbtiles") {
           let destPath = `${targetFolder}/${mapName}/${path.basename(
             relDataPath,
@@ -62,7 +63,9 @@ glob(`${baseFolder}/src/maps/*/`, (err, mapPaths) => {
               unzipMbtiles(dataPath, destPath);
             });
           }
-        } else {
+
+        // copy the rest
+        if (dataExt != ".mbtiles") {
           let destPath = `${targetFolder}/${mapName}/${relDataPath}`;
           if (fs.pathExistsSync(destPath))
             return console.log(`[exists] ${relativePath(destPath)}`);
