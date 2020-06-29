@@ -3,6 +3,7 @@ node_modules/
 **/data/tmp/*
 **/data/output/*
 **/static/data/*
+.cache
 
 # Local Netlify folder
 .netlify

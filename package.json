@@ -7,7 +7,7 @@
     "build"
   ],
   "scripts": {
-    "build": "rollup -c",
+    "build": "cd src/scripts && node ./cache-data.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -59,6 +59,9 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "copy-webpack-plugin": "^6.0.2",
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6",
+    "mkdirp": "^1.0.4",
     "node-sass": "^4.14.1",
     "osmtogeojson": "^3.0.0-beta.4",
     "postcss-font-base64": "^1.0.5",
@@ -68,6 +71,8 @@
     "rollup-plugin-peer-deps-external": "^2.2.2",
     "rollup-plugin-postcss": "^3.1.2",
     "rollup-plugin-sass": "^1.2.2",
-    "rollup-plugin-url": "^3.0.1"
+    "rollup-plugin-url": "^3.0.1",
+    "sqlite3": "^4.2.0",
+    "zlib": "^1.0.5"
   }
 }
