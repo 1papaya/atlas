@@ -1,0 +1,15 @@
+{
+  "options": {
+    "paths": {
+      "root": "./"
+    }
+  },
+  "data": {
+    "gl-pyrenees--osm": {
+      "mbtiles": "gl-pyrenees--osm.mbtiles"
+    },
+    "gl-pyrenees--pyr": {
+      "mbtiles": "gl-pyrenees--pyr.mbtiles"
+    }
+  }
+}

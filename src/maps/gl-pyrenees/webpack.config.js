@@ -16,7 +16,7 @@ const config = {
     compress: true,
   },
 
-  entry: "src/index.js",
+  entry: resolve("src/index.js"),
   
   output: {
     chunkFilename: "[name].bundle.js",
