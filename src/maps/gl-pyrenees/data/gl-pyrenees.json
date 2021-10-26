@@ -6,10 +6,10 @@
   },
   "data": {
     "gl-pyrenees--osm": {
-      "mbtiles": "osm.mbtiles"
+      "mbtiles": "gl-pyrenees--osm.mbtiles"
     },
     "gl-pyrenees--pyr": {
-      "mbtiles": "pyr.mbtiles"
+      "mbtiles": "gl-pyrenees--pyr.mbtiles"
     }
   }
 }

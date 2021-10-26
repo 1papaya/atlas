@@ -1,0 +1,1 @@
+export {default as PyreneesMap} from "./maps/gl-pyrenees/src/";

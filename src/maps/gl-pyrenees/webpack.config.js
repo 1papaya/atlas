@@ -9,14 +9,14 @@ const BABEL_CONFIG = {
 const config = {
   devServer: {
     disableHostCheck: true,
-    contentBase: resolve("static"),
+    //contentBase: resolve("static"),
     headers: {
       "Access-Control-Allow-Origin": "*",
     },
     compress: true,
   },
 
-  entry: resolve("src/index.js"),
+  entry: resolve("src/app.js"),
   
   output: {
     chunkFilename: "[name].bundle.js",
@@ -104,11 +104,6 @@ const config = {
   plugins: [
     new HtmlWebpackPlugin({
       template: "index.html",
-    }),
-    new CopyWebpackPlugin({
-      patterns: [
-        { from: resolve("static"), to: resolve("public") },
-      ]
     })
   ],
 };

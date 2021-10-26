@@ -1,0 +1,1372 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -0.4230540, 42.9920140 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4198828875808338479",
+      "Location" : {
+        "Address" : "Rue du Bourguet, 64440 Laruns, France",
+        "Business Name" : "Intermarché CONTACT Laruns et Drive",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9920140",
+          "Longitude" : "-0.4230540"
+        }
+      },
+      "Published" : "2020-06-30T23:21:42Z",
+      "Title" : "Intermarché CONTACT Laruns et Drive",
+      "Updated" : "2020-06-30T23:21:42Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.1234150, 42.6240360 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=284681489254622221",
+      "Location" : {
+        "Address" : "25580 Esterri d'Àneu, Lleida, Spain",
+        "Business Name" : "Plusfresc Esterri d'Àneu",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6240360",
+          "Longitude" : "1.1234150"
+        }
+      },
+      "Published" : "2020-06-30T22:30:53Z",
+      "Title" : "Plusfresc Esterri d'Àneu",
+      "Updated" : "2020-06-30T22:30:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.6865301, 43.2799391 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10453100591763953807",
+      "Location" : {
+        "Address" : "Eztegara Pasealekua, 6, 31780 Bera, Navarre, Spain",
+        "Business Name" : "DIA",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "43.2799391",
+          "Longitude" : "-1.6865301"
+        }
+      },
+      "Published" : "2020-06-20T20:45:36Z",
+      "Title" : "DIA",
+      "Updated" : "2020-06-20T20:45:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.7046541, 43.2478591 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7564808814268145235",
+      "Location" : {
+        "Address" : "Plaza Berria, 10, 31770 Lesaka, Navarre, Spain",
+        "Business Name" : "DIA",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "43.2478591",
+          "Longitude" : "-1.7046541"
+        }
+      },
+      "Published" : "2020-06-20T20:44:30Z",
+      "Title" : "DIA",
+      "Updated" : "2020-06-20T20:44:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4267539, 28.1190305 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10367974863390563080",
+      "Location" : {
+        "Address" : "Calle Domingo Rivero, 2, 35004 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Instituto Proctológico Doctor Padrón",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1190305",
+          "Longitude" : "-15.4267539"
+        }
+      },
+      "Published" : "2020-06-11T10:11:33Z",
+      "Title" : "Instituto Proctológico Doctor Padrón",
+      "Updated" : "2020-06-11T10:11:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.2182953, 42.6349415 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17553341150240870932",
+      "Location" : {
+        "Address" : "Ctra. Parzán, 2, 22350 Bielsa, Huesca, Spain",
+        "Business Name" : "Solans supermercado",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6349415",
+          "Longitude" : "0.2182953"
+        }
+      },
+      "Published" : "2020-05-29T15:46:33Z",
+      "Title" : "Solans supermercado",
+      "Updated" : "2020-05-29T15:46:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.6794464, 42.4814245 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16729563438174656520",
+      "Location" : {
+        "Address" : "Ville Nouvelle, 66110 Amélie-les-Bains-Palalda, France",
+        "Business Name" : "Leader Price",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4814245",
+          "Longitude" : "2.6794464"
+        }
+      },
+      "Published" : "2020-05-29T15:41:03Z",
+      "Title" : "Leader Price",
+      "Updated" : "2020-05-29T15:41:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.8645385, 42.4600712 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5201338923052057927",
+      "Location" : {
+        "Address" : "Carrer Dr. Subiró, 1, 17709 Le Perthus, Girona, Spain",
+        "Business Name" : "Boucherie Paco, Super Frontera",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4600712",
+          "Longitude" : "2.8645385"
+        }
+      },
+      "Published" : "2020-05-29T15:34:40Z",
+      "Title" : "Boucherie Paco, Super Frontera",
+      "Updated" : "2020-05-29T15:34:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.8668979, 42.4285537 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6619191199599301534",
+      "Location" : {
+        "Address" : "Sector Duana nova Parcela 1, 17700 Els Límits, Girona, Spain",
+        "Business Name" : "Novavenda",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4285537",
+          "Longitude" : "2.8668979"
+        }
+      },
+      "Published" : "2020-05-29T15:31:50Z",
+      "Title" : "Novavenda",
+      "Updated" : "2020-05-29T15:31:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.4812679, 42.4034059 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8491565122500016200",
+      "Location" : {
+        "Address" : "17 Rue du Jardin d'Enfants, 66230 Prats-de-Mollo-la-Preste, France",
+        "Business Name" : "Relais des Mousquetaires Oulrich",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4034059",
+          "Longitude" : "2.4812679"
+        }
+      },
+      "Published" : "2020-05-29T15:31:03Z",
+      "Title" : "Relais des Mousquetaires Oulrich",
+      "Updated" : "2020-05-29T15:31:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3720679, 42.3129350 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9795468901742577723",
+      "Location" : {
+        "Address" : "Carrer Freixenet, 46, 17867 Camprodon, Girona, Spain",
+        "Business Name" : "Esclat",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3129350",
+          "Longitude" : "2.3720679"
+        }
+      },
+      "Published" : "2020-05-29T15:30:30Z",
+      "Title" : "Esclat",
+      "Updated" : "2020-05-29T15:30:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.3648102, 42.3116208 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10065716869799146401",
+      "Location" : {
+        "Address" : "Plaça de la Vila, 9, 10, 17867 Camprodon, Girona, Spain",
+        "Business Name" : "Charter supermarket",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3116208",
+          "Longitude" : "2.3648102"
+        }
+      },
+      "Published" : "2020-05-29T15:30:08Z",
+      "Title" : "Charter supermarket",
+      "Updated" : "2020-05-29T15:30:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.6358339, 42.4563849 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8397038916941023953",
+      "Location" : {
+        "Address" : "17 Boulevard de La Mairie, 66150 Arles-sur-Tech, France",
+        "Business Name" : "SPAR",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4563849",
+          "Longitude" : "2.6358339"
+        }
+      },
+      "Published" : "2020-05-29T15:23:47Z",
+      "Title" : "SPAR",
+      "Updated" : "2020-05-29T15:23:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.9211369, 42.4267649 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=182132866873046185",
+      "Location" : {
+        "Address" : "Carretera Puigcerdá, Ctra. Seu d'Urgell, Km. 0, 1, 17520 Puigcerdà, Girona, Spain",
+        "Business Name" : "Carrefour Market",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4267649",
+          "Longitude" : "1.9211369"
+        }
+      },
+      "Published" : "2020-05-29T15:21:34Z",
+      "Title" : "Carrefour Market",
+      "Updated" : "2020-05-29T15:21:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.9431257, 42.4349498 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3445267018488772035",
+      "Location" : {
+        "Address" : "7 Rue du Belloch, 66760 Bourg-Madame, France",
+        "Business Name" : "Carrefour Market",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4349498",
+          "Longitude" : "1.9431257"
+        }
+      },
+      "Published" : "2020-05-29T15:21:31Z",
+      "Title" : "Carrefour Market",
+      "Updated" : "2020-05-29T15:21:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.9465420, 42.4325647 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3455930382501557042",
+      "Location" : {
+        "Address" : "Avenue des Pyrénées, 66760 Bourg-Madame, France",
+        "Business Name" : "ALDI",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4325647",
+          "Longitude" : "1.9465420"
+        }
+      },
+      "Published" : "2020-05-29T15:21:31Z",
+      "Title" : "ALDI",
+      "Updated" : "2020-05-29T15:21:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.9850370, 42.4629038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16798961738328293404",
+      "Location" : {
+        "Address" : "Carrer del Raval, 55, 17527 Llívia, Girona, Spain",
+        "Business Name" : "Supermercat Charter",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4629038",
+          "Longitude" : "1.9850370"
+        }
+      },
+      "Published" : "2020-05-29T15:20:57Z",
+      "Title" : "Supermercat Charter",
+      "Updated" : "2020-05-29T15:20:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.0723648, 42.5718000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4770750770831494576",
+      "Location" : {
+        "Address" : "Immeuble Panoramic, Route de Mont Louis, 66210 Les Angles, France",
+        "Business Name" : "SPAR",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5718000",
+          "Longitude" : "2.0723648"
+        }
+      },
+      "Published" : "2020-05-29T15:19:50Z",
+      "Title" : "SPAR",
+      "Updated" : "2020-05-29T15:19:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.0131039, 42.4989356 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16066365867150123119",
+      "Location" : {
+        "Address" : "2 Rue de las Devese, 66120 Égat, France",
+        "Business Name" : "Lidl",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4989356",
+          "Longitude" : "2.0131039"
+        }
+      },
+      "Published" : "2020-05-29T15:19:23Z",
+      "Title" : "Lidl",
+      "Updated" : "2020-05-29T15:19:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 2.0411286, 42.5040113 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9836146454840960158",
+      "Location" : {
+        "Address" : "Avenue Mal Joffre, 66120 Font-Romeu-Odeillo-Via, France",
+        "Business Name" : "Carrefour Contact",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5040113",
+          "Longitude" : "2.0411286"
+        }
+      },
+      "Published" : "2020-05-29T15:19:10Z",
+      "Title" : "Carrefour Contact",
+      "Updated" : "2020-05-29T15:19:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.7311950, 42.5438310 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16059870057129788210",
+      "Location" : {
+        "Address" : "Carrer Sant Jordi, 45, AD200 Pas de la Casa, Andorra",
+        "Business Name" : "HIPERPAS II",
+        "Country Code" : "AD",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5438310",
+          "Longitude" : "1.7311950"
+        }
+      },
+      "Published" : "2020-05-29T15:18:30Z",
+      "Title" : "HIPERPAS II",
+      "Updated" : "2020-05-29T15:18:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.5890218, 42.5364472 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14103236470040211406",
+      "Location" : {
+        "Address" : "Av. de François Mitterrand, 120, AD200 Encamp, Andorra",
+        "Business Name" : "ECLER",
+        "Country Code" : "AD",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5364472",
+          "Longitude" : "1.5890218"
+        }
+      },
+      "Published" : "2020-05-29T15:16:30Z",
+      "Title" : "ECLER",
+      "Updated" : "2020-05-29T15:16:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.4860070, 42.5713680 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4052607019441302541",
+      "Location" : {
+        "Address" : "Carretera General, 27, AD400 La Massana, Andorra",
+        "Business Name" : "SUPERMERCAT MOLES ARINSAL",
+        "Country Code" : "AD",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5713680",
+          "Longitude" : "1.4860070"
+        }
+      },
+      "Published" : "2020-05-29T15:14:25Z",
+      "Title" : "SUPERMERCAT MOLES ARINSAL",
+      "Updated" : "2020-05-29T15:14:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.2361729, 42.5828709 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11132044082390253445",
+      "Location" : {
+        "Address" : "Carretera Tavascan, 25571 Ainet de Cardós, Lleida, Spain",
+        "Business Name" : "IOGURTS CAL JOANET",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5828709",
+          "Longitude" : "1.2361729"
+        }
+      },
+      "Published" : "2020-05-29T15:12:53Z",
+      "Title" : "IOGURTS CAL JOANET",
+      "Updated" : "2020-05-29T15:12:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.5977298, 42.7981200 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9719222803161340400",
+      "Location" : {
+        "Address" : "18 Rue Clément Ader, 31110 Bagnères-de-Luchon, France",
+        "Business Name" : "Lidl",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7981200",
+          "Longitude" : "0.5977298"
+        }
+      },
+      "Published" : "2020-05-29T15:10:06Z",
+      "Title" : "Lidl",
+      "Updated" : "2020-05-29T15:10:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.1144502, 42.8891316 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11698550835854664265",
+      "Location" : {
+        "Address" : "5 Bis Avenue du Gén Leclerc, 65110 Cauterets, France",
+        "Business Name" : "Carrefour Montagne",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.8891316",
+          "Longitude" : "-0.1144502"
+        }
+      },
+      "Published" : "2020-05-29T15:05:26Z",
+      "Title" : "Carrefour Montagne",
+      "Updated" : "2020-05-29T15:05:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.3223710, 42.6294670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11520451200684662229",
+      "Location" : {
+        "Address" : "Cajal 7, Calle de Ram, 22630 Nueva York, Huesca, Spain",
+        "Business Name" : "DIA",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6294670",
+          "Longitude" : "-0.3223710"
+        }
+      },
+      "Published" : "2020-05-29T15:05:15Z",
+      "Title" : "DIA",
+      "Updated" : "2020-05-29T15:05:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.6053906, 42.9769809 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7568809878204270696",
+      "Location" : {
+        "Address" : "Chemin D'Arrechau, 64490 Accous, France",
+        "Business Name" : "Intermarché CONTACT Accous et Drive",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9769809",
+          "Longitude" : "-0.6053906"
+        }
+      },
+      "Published" : "2020-05-29T15:04:27Z",
+      "Title" : "Intermarché CONTACT Accous et Drive",
+      "Updated" : "2020-05-29T15:04:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.7498130, 42.7383928 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12037273213373105441",
+      "Location" : {
+        "Address" : "Calle Mayor, 24, 22720 Hecho, Huesca, Spain",
+        "Business Name" : "SUPERMARKET ALTO ARAGON DONE",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7383928",
+          "Longitude" : "-0.7498130"
+        }
+      },
+      "Published" : "2020-05-29T15:03:22Z",
+      "Title" : "SUPERMARKET ALTO ARAGON DONE",
+      "Updated" : "2020-05-29T15:03:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.2827094, 42.7238409 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12140028787601263566",
+      "Location" : {
+        "Address" : "Calle Acceso Telesilla, 4, 22661 Panticosa, Huesca, Spain",
+        "Business Name" : "Supermercado Altoaragón",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7238409",
+          "Longitude" : "-0.2827094"
+        }
+      },
+      "Published" : "2020-05-29T15:01:55Z",
+      "Title" : "Supermercado Altoaragón",
+      "Updated" : "2020-05-29T15:01:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0894037, 42.9062163 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12560688254993108179",
+      "Location" : {
+        "Address" : "Barrio Irigoyen, 42, 45, 31680 Ochagavía, Navarra, Spain",
+        "Business Name" : "Supermercados Coviran",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.9062163",
+          "Longitude" : "-1.0894037"
+        }
+      },
+      "Published" : "2020-05-29T14:59:59Z",
+      "Title" : "Supermercados Coviran",
+      "Updated" : "2020-05-29T14:59:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0035872, 42.8727162 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8156298889293813259",
+      "Location" : {
+        "Address" : "Rue d'Ossun, 65120 Luz-Saint-Sauveur, France",
+        "Business Name" : "Carrefour Montagne",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.8727162",
+          "Longitude" : "-0.0035872"
+        }
+      },
+      "Published" : "2020-05-29T14:59:07Z",
+      "Title" : "Carrefour Montagne",
+      "Updated" : "2020-05-29T14:59:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.4092085, 42.7960437 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13794734838294145104",
+      "Location" : {
+        "Address" : "Centre Commercial du Baladan, 65510 Loudenvielle, France",
+        "Business Name" : "Carrefour Montagne",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7960437",
+          "Longitude" : "0.4092085"
+        }
+      },
+      "Published" : "2020-05-29T14:58:32Z",
+      "Title" : "Carrefour Montagne",
+      "Updated" : "2020-05-29T14:58:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.3332230, 42.8272110 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3444795438321943765",
+      "Location" : {
+        "Address" : "Chemin de Vielle Aure, 65170 Bourisp, France",
+        "Business Name" : "Carrefour Market",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.8272110",
+          "Longitude" : "0.3332230"
+        }
+      },
+      "Published" : "2020-05-29T14:58:16Z",
+      "Title" : "Carrefour Market",
+      "Updated" : "2020-05-29T14:58:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.1317947, 42.4157625 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10705270588678978166",
+      "Location" : {
+        "Address" : "Carrer del Dr. Carles Pol i Aleu, 50, 56, 25560 Sort, Lleida, Spain",
+        "Business Name" : "Dia",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4157625",
+          "Longitude" : "1.1317947"
+        }
+      },
+      "Published" : "2020-05-29T14:51:00Z",
+      "Title" : "Dia",
+      "Updated" : "2020-05-29T14:51:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.6419226, 42.5792450 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13899003860319000923",
+      "Location" : {
+        "Address" : "Carretera General, AD100 El Tarter, Andorra",
+        "Business Name" : "Caves Manacor",
+        "Country Code" : "AD",
+        "Geo Coordinates" : {
+          "Latitude" : "42.5792450",
+          "Longitude" : "1.6419226"
+        }
+      },
+      "Published" : "2020-05-29T14:50:21Z",
+      "Title" : "Caves Manacor",
+      "Updated" : "2020-05-29T14:50:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7407708, 42.4068355 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15850063938660224382",
+      "Location" : {
+        "Address" : "Carrer Ciutat de Lleida, 8, 25520 El Pont de Suert, Lleida, Spain",
+        "Business Name" : "Caprabo",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.4068355",
+          "Longitude" : "0.7407708"
+        }
+      },
+      "Published" : "2020-05-29T14:41:55Z",
+      "Title" : "Caprabo",
+      "Updated" : "2020-05-29T14:41:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.4560583, 42.3607287 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8330408213250519585",
+      "Location" : {
+        "Address" : "Av. del Valira, s/n, 25700 La Seu d'Urgell, Lleida, Spain",
+        "Business Name" : "MERCADONA",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.3607287",
+          "Longitude" : "1.4560583"
+        }
+      },
+      "Published" : "2020-05-29T14:39:32Z",
+      "Title" : "MERCADONA",
+      "Updated" : "2020-05-29T14:39:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7939375, 42.7030926 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6081011494404454370",
+      "Location" : {
+        "Address" : "C/ Anglada (N-230, Av. Castiero, C-28, 25530 Viella, Lleida, Spain",
+        "Business Name" : "Mercadona",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7030926",
+          "Longitude" : "0.7939375"
+        }
+      },
+      "Published" : "2020-05-29T14:37:23Z",
+      "Title" : "Mercadona",
+      "Updated" : "2020-05-29T14:37:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.5253303, 42.6055492 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2018646667793169964",
+      "Location" : {
+        "Address" : "Av. de Francia, 42, 22440 Benasque, Huesca, Spain",
+        "Business Name" : "Eroski",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6055492",
+          "Longitude" : "0.5253303"
+        }
+      },
+      "Published" : "2020-05-29T14:34:27Z",
+      "Title" : "Eroski",
+      "Updated" : "2020-05-29T14:34:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.2090953, 42.6620222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16016221033121982257",
+      "Location" : {
+        "Address" : "22365 Bielsa, Huesca, Spain",
+        "Business Name" : "Supermercado Mazcaray",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.6620222",
+          "Longitude" : "0.2090953"
+        }
+      },
+      "Published" : "2020-05-29T14:34:12Z",
+      "Title" : "Supermercado Mazcaray",
+      "Updated" : "2020-05-29T14:34:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.0310536, 42.7295840 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8948555104557467321",
+      "Location" : {
+        "Address" : "1 place Montblanc, 65120 Esquièze-Sère, France",
+        "Business Name" : "Carrefour Market",
+        "Country Code" : "FR",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7295840",
+          "Longitude" : "-0.0310536"
+        }
+      },
+      "Published" : "2020-05-29T14:33:00Z",
+      "Title" : "Carrefour Market",
+      "Updated" : "2020-05-29T14:33:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.5152205, 42.7519271 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13732057601941223373",
+      "Location" : {
+        "Address" : "Av. de Fernando el Católico, N 5, 22880 Canfranc-Estación, Huesca, Spain",
+        "Business Name" : "Supermercado el Canfranero",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "42.7519271",
+          "Longitude" : "-0.5152205"
+        }
+      },
+      "Published" : "2020-05-29T14:32:37Z",
+      "Title" : "Supermercado el Canfranero",
+      "Updated" : "2020-05-29T14:32:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.5162227, 43.1466431 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8634755875776470490",
+      "Location" : {
+        "Address" : "Plaza los Fueros, 3, 31700 Elizondo, Navarra, Spain",
+        "Business Name" : "EROSKI",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "43.1466431",
+          "Longitude" : "-1.5162227"
+        }
+      },
+      "Published" : "2020-05-29T14:31:06Z",
+      "Title" : "EROSKI",
+      "Updated" : "2020-05-29T14:31:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8378253, 43.3206569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4028608422100873691",
+      "Location" : {
+        "Address" : "Centro Comercial Txingudi, Calle Ventas, 20305 Araso, SS, Spain",
+        "Business Name" : "Decathlon Irún",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "43.3206569",
+          "Longitude" : "-1.8378253"
+        }
+      },
+      "Published" : "2020-05-29T14:29:56Z",
+      "Title" : "Decathlon Irún",
+      "Updated" : "2020-05-29T14:29:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -17.7659904, 28.6828851 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3640985393445805293",
+      "Location" : {
+        "Address" : "Calle Virgen de la Luz, 8, 38700 Santa Cruz de la Palma, Santa Cruz de Tenerife, Spain",
+        "Business Name" : "Biblioteca de Teatro Robert",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.6828851",
+          "Longitude" : "-17.7659904"
+        }
+      },
+      "Published" : "2020-02-13T15:24:52Z",
+      "Title" : "Biblioteca de Teatro Robert",
+      "Updated" : "2020-02-13T15:24:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.7872307, 27.9866579 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8370749243949974723",
+      "Location" : {
+        "Address" : "Calle Dr. Fleming, 35470 La Ladera, Las Palmas, Spain",
+        "Business Name" : "Senderos de La Aldea",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "27.9866579",
+          "Longitude" : "-15.7872307"
+        }
+      },
+      "Published" : "2020-02-12T15:56:10Z",
+      "Title" : "Senderos de La Aldea",
+      "Updated" : "2020-02-12T15:56:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4255744, 28.1217883 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Calle+Luis+Doreste+Silva,+68,+35004+Las+Palmas+de+Gran+Canaria,+Las+Palmas&ftid=0xc4095746cea3f51:0x247f17a4a2824119",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "28.1217883",
+          "Longitude" : "-15.4255744"
+        }
+      },
+      "Published" : "2020-02-10T10:29:30Z",
+      "Title" : "Calle Luis Doreste Silva, 68, 35004 Las Palmas de Gran Canaria, Las Palmas",
+      "Updated" : "2020-02-10T10:29:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2628699, 53.3419595 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6185644447596175367",
+      "Location" : {
+        "Address" : "20/21 William St S, Dublin, D02 XE77, Ireland",
+        "Business Name" : "AA Ireland",
+        "Geo Coordinates" : {
+          "Latitude" : "53.3419595",
+          "Longitude" : "-6.2628699"
+        }
+      },
+      "Published" : "2020-01-09T16:37:05Z",
+      "Title" : "AA Ireland",
+      "Updated" : "2020-01-09T16:37:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4297081, 28.1201791 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=28.120179062426455,-15.429708100855352",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "28.1201791",
+          "Longitude" : "-15.4297081"
+        }
+      },
+      "Published" : "2019-12-19T19:58:41Z",
+      "Title" : "28.120179062426455,-15.429708100855352",
+      "Updated" : "2019-12-19T19:58:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.7093545, 28.0867794 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Playa+de+Guayedra,+Las+Palmas&ftid=0xc408b0b0b7cf71f:0xa73b37dbed939997",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "28.0867794",
+          "Longitude" : "-15.7093545"
+        }
+      },
+      "Published" : "2019-12-19T18:30:45Z",
+      "Title" : "Playa de Guayedra, Las Palmas",
+      "Updated" : "2019-12-19T18:30:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.6996738, 28.1002592 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Agaete,+Las+Palmas&ftid=0xc408b65894cde91:0x2a021e37bef00582",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "28.1002592",
+          "Longitude" : "-15.6996738"
+        }
+      },
+      "Published" : "2019-12-19T18:29:52Z",
+      "Title" : "Agaete, Las Palmas",
+      "Updated" : "2019-12-19T18:29:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4193152, 28.1033795 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Calle+Domingo+Guerra+del+R%C3%ADo,+51,+35014+Las+Palmas+de+Gran+Canaria,+Las+Palmas&ftid=0xc40959032bbbcb9:0x4bd02b121305cd2c",
+      "Location" : {
+        "Geo Coordinates" : {
+          "Latitude" : "28.1033795",
+          "Longitude" : "-15.4193152"
+        }
+      },
+      "Published" : "2019-12-19T15:26:02Z",
+      "Title" : "Calle Domingo Guerra del Río, 51, 35014 Las Palmas de Gran Canaria, Las Palmas",
+      "Updated" : "2019-12-19T15:26:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4493693, 28.1131549 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14025756288183346884",
+      "Location" : {
+        "Address" : "Av. Juan Carlos I, 29, 35019 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Cima Running",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1131549",
+          "Longitude" : "-15.4493693"
+        }
+      },
+      "Published" : "2019-12-18T15:29:36Z",
+      "Title" : "Cima Running",
+      "Updated" : "2019-12-18T15:29:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4300768, 28.1307201 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9039837331865073827",
+      "Location" : {
+        "Address" : "Calle León y Castillo, 319, 35006 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Running Proyect Canarias",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1307201",
+          "Longitude" : "-15.4300768"
+        }
+      },
+      "Published" : "2019-12-18T15:28:43Z",
+      "Title" : "Running Project Canarias",
+      "Updated" : "2019-12-18T15:28:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4254489, 28.1501028 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13368337796616364793",
+      "Location" : {
+        "Address" : "Calle Anzofé, 35, 35009 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Asociación Atlas Gran Canaria",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1501028",
+          "Longitude" : "-15.4254489"
+        }
+      },
+      "Published" : "2019-12-17T20:48:14Z",
+      "Title" : "Asociación Atlas Gran Canaria",
+      "Updated" : "2019-12-17T20:48:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4399335, 28.1307094 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6004314285441177823",
+      "Location" : {
+        "Address" : "Av. José Mesa y López, 82, 35010 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Violeta Gil Pharmacy",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1307094",
+          "Longitude" : "-15.4399335"
+        }
+      },
+      "Published" : "2019-12-17T19:52:28Z",
+      "Title" : "Farmacia Violeta Gil",
+      "Updated" : "2019-12-17T19:52:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4336491, 28.1408334 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=736529113656390760",
+      "Location" : {
+        "Address" : "Calle Tomás Miller, 62, 35007 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Farmacia Laura Cardenes Navarro",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1408334",
+          "Longitude" : "-15.4336491"
+        }
+      },
+      "Published" : "2019-12-17T19:50:01Z",
+      "Title" : "Farmacia Laura Cardenes Navarro",
+      "Updated" : "2019-12-17T19:50:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.8257949, 27.9083271 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3176876504260169332",
+      "Location" : {
+        "Address" : "GC-204, s n, 35478 Tasartico, Las Palmas, Spain",
+        "Business Name" : "Camping Tasartico",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "27.9083271",
+          "Longitude" : "-15.8257949"
+        }
+      },
+      "Published" : "2019-12-15T22:40:27Z",
+      "Title" : "Camping Tasartico",
+      "Updated" : "2019-12-15T22:40:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.5303210, 28.0826782 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5972114413377470438",
+      "Location" : {
+        "Address" : "Camino El Lomo, 28, 35339 Teror, Las Palmas, Spain",
+        "Business Name" : "La Tejana",
+        "Geo Coordinates" : {
+          "Latitude" : "28.0826782",
+          "Longitude" : "-15.5303210"
+        }
+      },
+      "Published" : "2019-12-11T21:21:01Z",
+      "Title" : "La Tejana",
+      "Updated" : "2019-12-11T21:21:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.6033740, 27.9961120 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7598375286466221243",
+      "Location" : {
+        "Address" : "GC-156, Finca la Isa 1, 35369, 35369 Tejeda, Spain",
+        "Business Name" : "Finca la Isa",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "27.9961120",
+          "Longitude" : "-15.6033740"
+        }
+      },
+      "Published" : "2019-12-11T21:16:14Z",
+      "Title" : "Finca la Isa",
+      "Updated" : "2019-12-11T21:16:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -13.8687671, 28.7369342 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13265759695751510856",
+      "Location" : {
+        "Address" : "Calle Acorazado España, 2, 35660 Corralejo, Las Palmas, Spain",
+        "Business Name" : "Orange Mobile Shop",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.7369342",
+          "Longitude" : "-13.8687671"
+        }
+      },
+      "Published" : "2019-12-09T22:49:32Z",
+      "Title" : "Orange Mobile Shop",
+      "Updated" : "2019-12-09T22:49:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4319178, 28.1295888 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2211008909338831420",
+      "Location" : {
+        "Address" : "Calle Manuel González Martín, 34, 35006 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Bikram Yoga Canarias",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1295888",
+          "Longitude" : "-15.4319178"
+        }
+      },
+      "Published" : "2019-12-07T16:20:47Z",
+      "Title" : "Bikram Yoga Canarias",
+      "Updated" : "2019-12-07T16:20:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.4162163, 28.1104143 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12377015922676607879",
+      "Location" : {
+        "Address" : "Calle Muelle Las Palmas, s/n, 35003 Las Palmas de Gran Canaria, Las Palmas, Spain",
+        "Business Name" : "Biblioteca Pública del Estado en Las Palmas",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "28.1104143",
+          "Longitude" : "-15.4162163"
+        }
+      },
+      "Published" : "2019-12-07T10:35:37Z",
+      "Title" : "Biblioteca Pública del Estado en Las Palmas de Gran Canaria",
+      "Updated" : "2019-12-07T10:35:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.5405564, 27.9128738 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3308393526625994887",
+      "Location" : {
+        "Address" : "-4,, Calle Leopoldo Matos, 2, 35280 Santa Lucía de Tirajana, Las Palmas, Spain",
+        "Business Name" : "Biblioteca Santa Lucía Casco",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "27.9128738",
+          "Longitude" : "-15.5405564"
+        }
+      },
+      "Published" : "2019-12-07T10:32:53Z",
+      "Title" : "Biblioteca Santa Lucía Casco",
+      "Updated" : "2019-12-07T10:32:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -15.6155739, 27.9955155 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16368970489847531422",
+      "Location" : {
+        "Address" : "Calle Dr. Heraclio Sanches 35360, Las Palmas, Spain",
+        "Business Name" : "Biblioteca Pública",
+        "Country Code" : "ES",
+        "Geo Coordinates" : {
+          "Latitude" : "27.9955155",
+          "Longitude" : "-15.6155739"
+        }
+      },
+      "Published" : "2019-12-07T10:28:07Z",
+      "Title" : "Biblioteca Pública",
+      "Updated" : "2019-12-07T10:28:07Z"
+    },
+    "type" : "Feature"
+  } ]
+}

@@ -151,6 +151,7 @@ const Map = forwardRef((props, ref) => {
         <MapGL.default
           {...viewport}
           ref={mapRef}
+          hash={true}
           style={{ width: "100%", height: "100%" }}
           attributionControl={false}
           refreshExpiredTiles={false}
