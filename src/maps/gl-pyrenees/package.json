@@ -35,7 +35,7 @@
     "fontsource-barlow-condensed": "^2.1.3",
     "fontsource-palanquin": "^2.1.3",
     "html-loader": "^1.1.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.3",
     "is-mobile": "^2.2.1",
     "json-loader": "^0.5.7",
     "mapbox-gl": "^1.10.1",
